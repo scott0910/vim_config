@@ -3,6 +3,7 @@ map <F2> :Explor<CR>
 set cursorline
 set tabstop=4
 set shiftwidth=4
+set expandtab
 
 let Tlist_Auto_Open=1
 let Tlist_Auto_Update=1
